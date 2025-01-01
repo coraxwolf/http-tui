@@ -23,3 +23,14 @@ go.work.sum
 
 # env file
 .env
+
+# Configuration Files
+*.ini
+
+# Log Files
+*.Log
+logs/
+
+# IDE Files
+.idea/
+.vscode/
