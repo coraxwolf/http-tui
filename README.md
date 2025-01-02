@@ -11,4 +11,9 @@ HTTP TUI is a terminal based application that makes HTTP Requests and allows you
 
 # Features
 
--
+- Submit GET, POST, PUT, PATCH, and DELETE requests over HTTP/HTTPS to remote servers
+- Include JSON and Web Form Data in the body of requests
+- Show Headers and Body of Response received
+- Save Headers and Body of Response to local files
+- Store Secrets such as API Tokens in Configuration
+- Auto Add Authentication Headers to requests
